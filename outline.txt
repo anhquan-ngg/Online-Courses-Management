@@ -1,0 +1,26 @@
+- HTTP Protocol 
+- SSR & CSR 
+- NodeJS
+- ExpressJS
+- Nodemon & Inspector 
+- Morgan 
+-----------------------
+- Template engine (handlebars): Giúp tạo HTML động từ template và dữ liệu.
+- Static file & SCSS
+- Bootstrap
+- Basic routing 
+- GET method: lấy dữ liệu từ Server về Client
+- Querry parameters
+- Form default behavior 
+- POST method: gửi dữ liệu từ Client đến Server 
+- MVC: Model - View - Controller
+- Prettier - Code formatter: lint-staged husky
+- MongoDB: Model - Mongoose - Connect to database - Creating a model
+- CRUD: 
+- Soft Delete: Soft Delete - Restore - Force delete
+- Middleware: 
++ Phần mềm trung gian (đứng giữa các thành phần trong một mô hình phần mềm)
++ Vai trò: Kiểm soát(Validation) - Cho phép(Validation passed) - Không cho phép(Validation) - Chỉnh sửa/Thay đổi
++ Ứng dụng:Chức năng xác thực (Authentication) - Chức năng phân quyền (Authorization) - 
+
+

@@ -1,0 +1,18 @@
+h1 {
+  color: green; }
+
+h2 {
+  color: red; }
+
+.card-item {
+  margin-top: 16px; }
+
+.user-img {
+  height: 28px;
+  width: 28px;
+  border-radius: 50%;
+  margin-right: 5px; }
+
+.checkbox-select-all-options {
+  width: 160px;
+  margin: 0 16px; }
